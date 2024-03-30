@@ -1,0 +1,11 @@
+wykonano na Chrome - Version 123.0.6312.86 (Official Build) (64-bit)
+
+#test 1 - czy mozna zalogowac bez istniejacego konta
+#test 2 - czy mozna dodac produkt do koszyka bez wybranego rozmiaru
+#test 3 - czy produkt zostal dodany do koszyka
+#test 4 - sprawdzenie czy mozna dodac produkt do ulubionych
+#test 5 - sprawdzenie czy mozna usunac produkt z ulubionych
+#test 6 - usuniecie produktu z koszyka
+#test 7 - proba zalogowania przy uzyciu poprawnego emaila i zlego hasla
+#test 8 - proba zalogowania przy uzyciu poprawnego emaila i dobrego
+#test 9 - proba zalogowania przy uzyciu niepoprawnego emaila - zly adres domeny
